@@ -1,0 +1,27 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#flash_pic {
+  max-width: 25%;
+}
+.task-box{
+  display: none;
+}
+
+.hidden{
+  display: none;
+}
+
+/* .base-body{
+  background-color: darkgoldenrod;
+  color: azure;
+} */
+.dark-mode{
+  background-color: darkgoldenrod;
+  color: azure;
+}
